@@ -1,0 +1,13 @@
+@media(max-width:991.5px) {
+    .test-title {
+        font-size: 22px;
+    }
+
+    .questions-list {
+        margin-top: 60px;
+    }
+
+    .question {
+        font-size: 22px;
+    }
+}
